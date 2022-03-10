@@ -1,0 +1,12 @@
+body {
+  background-color: grey;
+}
+
+.big {
+  height: 70%;
+  width: 70%;
+}
+
+.colorChange{
+  background-color: green;
+}
